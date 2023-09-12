@@ -1,5 +1,7 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "my-first-node-app",
+	"version": "0.0.0",
+	"description": "My first node app",
 	"author": "Joshua Larsen",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -10,6 +12,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://joshua-larsen.github.io/back-end-and-apis/"
 	}
 }
